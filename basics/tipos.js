@@ -1,0 +1,26 @@
+console.log("Hola desde node")
+
+//comentario en linea
+/*
+para comentarios de bloque
+*/
+//Diferentes tipos de datos
+/*
+Number
+string
+boolean 
+object undefined
+*/
+console.log(123)
+console.log(typeof(123))
+
+console.log(2.3)
+console.log(typeof(2.3))
+
+console.log(true)
+console.log(typeof(true))
+
+console.log("a")
+console.log(typeof("a"))
+
+console.log([])
